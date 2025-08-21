@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 52bab148-7e12-4943-a424-50a71e3db76b
+  title: Winter school 2025
+  description: Material
+  keywords: ["qr", "cg", "pca"]
+  authors: ["Name 1"]
+  github: https://github.com/carlosal1015/winter-school-2025
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  title: "Winter school"
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
